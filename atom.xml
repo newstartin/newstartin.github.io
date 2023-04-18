@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>newstartin</title>
+  
+  <subtitle>The endless night</subtitle>
+  <link href="https://newstartin.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://newstartin.github.io/"/>
+  <updated>2023-04-18T08:30:33.130Z</updated>
+  <id>https://newstartin.github.io/</id>
+  
+  <author>
+    <name>atlineat</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[GDOUCTF 2023]web wp</title>
+    <link href="https://newstartin.github.io/2023/04/17/[GDOUCTF%202023]web%20wp/"/>
+    <id>https://newstartin.github.io/2023/04/17/[GDOUCTF%202023]web%20wp/</id>
+    <published>2023-04-16T16:00:00.000Z</published>
+    <updated>2023-04-18T08:30:33.130Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;GDOUCTF-2023-web-复现&quot;&gt;&lt;a href=&quot;#GDOUCTF-2023-web-复现&quot; class=&quot;headerlink&quot; title=&quot;[GDOUCTF 2023]web 复现&quot;&gt;&lt;/a&gt;[GDOUCTF 2023]web</summary>
+        
+      
+    
+    
+    
+    <category term="GDOUCTF" scheme="https://newstartin.github.io/categories/GDOUCTF/"/>
+    
+    
+    <category term="web" scheme="https://newstartin.github.io/tags/web/"/>
+    
+    <category term="ctf" scheme="https://newstartin.github.io/tags/ctf/"/>
+    
+    <category term="wp" scheme="https://newstartin.github.io/tags/wp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>静态网页和动态网页</title>
+    <link href="https://newstartin.github.io/2023/04/13/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E5%92%8C%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/"/>
+    <id>https://newstartin.github.io/2023/04/13/%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E5%92%8C%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/</id>
+    <published>2023-04-12T16:26:53.000Z</published>
+    <updated>2023-04-12T16:26:53.945Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[CISCN 2019华北Day2]Web1 hack world wp</title>
+    <link href="https://newstartin.github.io/2023/04/12/[CISCN%202019%E5%8D%8E%E5%8C%97Day2]Web1%20hack%20world%20wp/"/>
+    <id>https://newstartin.github.io/2023/04/12/[CISCN%202019%E5%8D%8E%E5%8C%97Day2]Web1%20hack%20world%20wp/</id>
+    <published>2023-04-11T16:00:00.000Z</published>
+    <updated>2023-04-18T08:28:56.260Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hack-World-write-up&quot;&gt;&lt;a href=&quot;#Hack-World-write-up&quot; class=&quot;headerlink&quot; title=&quot;Hack World write up&quot;&gt;&lt;/a&gt;Hack World write</summary>
+        
+      
+    
+    
+    
+    <category term="CISCN" scheme="https://newstartin.github.io/categories/CISCN/"/>
+    
+    
+    <category term="web" scheme="https://newstartin.github.io/tags/web/"/>
+    
+    <category term="ctf" scheme="https://newstartin.github.io/tags/ctf/"/>
+    
+    <category term="wp" scheme="https://newstartin.github.io/tags/wp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于hexo搭建blog常用命令与说明</title>
+    <link href="https://newstartin.github.io/2023/04/11/hello-world/"/>
+    <id>https://newstartin.github.io/2023/04/11/hello-world/</id>
+    <published>2023-04-10T16:00:00.000Z</published>
+    <updated>2023-04-10T18:12:00.690Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="hexo搭建博客" scheme="https://newstartin.github.io/categories/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="-blog搭建" scheme="https://newstartin.github.io/tags/blog%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[CISCN 2022 初赛]online_crt wp</title>
+    <link href="https://newstartin.github.io/2023/04/10/[CISCN%202022%20%E5%88%9D%E8%B5%9B]online_crt%E5%A4%8D%E7%8E%B0/"/>
+    <id>https://newstartin.github.io/2023/04/10/[CISCN%202022%20%E5%88%9D%E8%B5%9B]online_crt%E5%A4%8D%E7%8E%B0/</id>
+    <published>2023-04-09T16:00:00.000Z</published>
+    <updated>2023-04-18T08:27:23.388Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;online-crt-write-up&quot;&gt;&lt;a href=&quot;#online-crt-write-up&quot; class=&quot;headerlink&quot; title=&quot;online_crt write up&quot;&gt;&lt;/a&gt;online_crt write</summary>
+        
+      
+    
+    
+    
+    <category term="CISCN" scheme="https://newstartin.github.io/categories/CISCN/"/>
+    
+    
+    <category term="web" scheme="https://newstartin.github.io/tags/web/"/>
+    
+    <category term="ctf" scheme="https://newstartin.github.io/tags/ctf/"/>
+    
+    <category term="wp" scheme="https://newstartin.github.io/tags/wp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ctfshow愚人杯easy_flask wp</title>
+    <link href="https://newstartin.github.io/2023/04/09/easy_flask%20wp/"/>
+    <id>https://newstartin.github.io/2023/04/09/easy_flask%20wp/</id>
+    <published>2023-04-08T16:00:00.000Z</published>
+    <updated>2023-04-12T14:56:46.025Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;ctfshow愚人杯easy-flask-wp&quot;&gt;&lt;a href=&quot;#ctfshow愚人杯easy-flask-wp&quot; class=&quot;headerlink&quot; title=&quot;ctfshow愚人杯easy_flask</summary>
+        
+      
+    
+    
+    
+    <category term="ctfshow愚人杯2023" scheme="https://newstartin.github.io/categories/ctfshow%E6%84%9A%E4%BA%BA%E6%9D%AF2023/"/>
+    
+    
+    <category term="web" scheme="https://newstartin.github.io/tags/web/"/>
+    
+    <category term="ctf" scheme="https://newstartin.github.io/tags/ctf/"/>
+    
+    <category term="wp" scheme="https://newstartin.github.io/tags/wp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Misc</title>
+    <link href="https://newstartin.github.io/2023/03/16/misc/"/>
+    <id>https://newstartin.github.io/2023/03/16/misc/</id>
+    <published>2023-03-15T16:00:00.000Z</published>
+    <updated>2023-04-10T18:13:45.692Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Misc&quot;&gt;&lt;a href=&quot;#Misc&quot; class=&quot;headerlink&quot; title=&quot;Misc&quot;&gt;&lt;/a&gt;Misc&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;@_@&lt;/em&gt;&lt;br&gt;&lt;em&gt;2023.3.16&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Misc学习整理" scheme="https://newstartin.github.io/categories/Misc%E5%AD%A6%E4%B9%A0%E6%95%B4%E7%90%86/"/>
+    
+    
+    <category term="-Misc" scheme="https://newstartin.github.io/tags/Misc/"/>
+    
+  </entry>
+  
+</feed>
